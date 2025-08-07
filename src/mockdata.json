@@ -1,0 +1,30 @@
+{
+    "balance": "1,337.42",
+    "address": "0x742d35Cc6634C0532925a3b8D4C0532925a3b8D4",
+    "transactions": [
+      {
+        "id": "1",
+        "type": "receive",
+        "amount": "+50.00",
+        "address": "0x123...abc",
+        "timestamp": "2024-01-15 14:30",
+        "status": "completed"
+      },
+      {
+        "id": "2",
+        "type": "send",
+        "amount": "-25.50",
+        "address": "0x456...def",
+        "timestamp": "2024-01-14 09:15",
+        "status": "completed"
+      },
+      {
+        "id": "3",
+        "type": "send",
+        "amount": "-100.00",
+        "address": "0x789...ghi",
+        "timestamp": "2024-01-13 16:45",
+        "status": "pending"
+      }
+    ]
+  }

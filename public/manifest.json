@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "RustWallet",
+  "version": "1.0",
+  "description": "A classic wallet for RustChain",
+  "permissions": ["tabs", "storage", "scripting", "activeTab", "cookies"],
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "rustwallet"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
